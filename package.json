@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/adonespitogo/dendroid-nodejs.git"
+    "url": "git+ssh://git@github.com:p2svn9x/AdoBot-IO.git"
   },
   "keywords": [
     "dendroid",
@@ -20,9 +20,9 @@
   "author": "Adones Pitogo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/adonespitogo/dendroid-nodejs/issues"
+    "url": "https://github.com/p2svn9x/AdoBot-IO/issues"
   },
-  "homepage": "https://github.com/adonespitogo/dendroid-nodejs#readme",
+  "homepage": "https://github.com/p2svn9x/AdoBot-IO#readme",
   "dependencies": {
     "body-parser": "^1.16.1",
     "del": "^3.0.0",
