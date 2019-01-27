@@ -5,13 +5,13 @@
   },
   "development": {
     "username": "root",
-    "password": null,
+    "password": "jedi3213",
     "database": "adobot",
     "host": "127.0.0.1",
     "dialect": "mysql",
     "admin" : {
-      "username": "admin",
-      "password": "admin"
+      "username": "heras",
+      "password": "jedi3213"
     }
   },
   "production": {
